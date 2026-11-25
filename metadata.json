@@ -1,0 +1,6 @@
+{
+  "name": "DUSTLINE — Tactical 3D FPS",
+  "description": "A Counter-Strike-inspired 3D first-person shooter built with Three.js featuring round-based tactical combat, buy phases, weapon ballistics, and AI bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
